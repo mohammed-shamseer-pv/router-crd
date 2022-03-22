@@ -1,0 +1,26 @@
+.bg{
+    background-color: #180A0A;
+}
+.bg-foot{
+    background-color: #4D77FF;
+}
+.bg-home{
+    background-color: #711A75;
+}
+h1{
+    color: white;
+    font-size: large;
+}
+p{
+    color: white;
+}
+.active{
+    color: #D82148;
+    background-color: #DADBBD;
+    border-radius: 5px;
+    padding: 2px;
+}
+.stt{
+    color: black;
+    font-size: 24px;
+}
