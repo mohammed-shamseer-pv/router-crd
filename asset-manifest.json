@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/router-crd/static/css/main.6af7c54a.css",
-    "main.js": "/router-crd/static/js/main.f56f258f.js",
+    "main.js": "/router-crd/static/js/main.0742e3e9.js",
     "static/media/vd2.mp4": "/router-crd/static/media/vd2.bd59343b3179341fa447.mp4",
     "index.html": "/router-crd/index.html",
     "main.6af7c54a.css.map": "/router-crd/static/css/main.6af7c54a.css.map",
-    "main.f56f258f.js.map": "/router-crd/static/js/main.f56f258f.js.map"
+    "main.0742e3e9.js.map": "/router-crd/static/js/main.0742e3e9.js.map"
   },
   "entrypoints": [
     "static/css/main.6af7c54a.css",
-    "static/js/main.f56f258f.js"
+    "static/js/main.0742e3e9.js"
   ]
 }
